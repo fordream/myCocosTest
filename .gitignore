@@ -1,3 +1,6 @@
 proj.ios_mac/myCocosTest.xcodeproj/project.xcworkspace/xcuserdata
 proj.ios_mac/myCocosTest.xcodeproj/xcuserdata
 proj.android/bin
+proj.android/assets
+proj.android/libs
+proj.android/obj
